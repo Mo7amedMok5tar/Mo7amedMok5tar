@@ -75,7 +75,7 @@
 ---
 
 ### 🏆 Achievements
-- 🎓 **Applied Data Science Lab** – WorldQuant University *(Completed)*  
+- 🎓 **Applied Data Science Lab** – WorldQuant University 
 - ☁️ **AWS Machine Learning Engineer Trainee** – Digital Egypt Builders Initiative (DEBI)  
 - 🤖 **Machine Learning Specialization** – DeepLearning.AI  
 - 🧩 **Applied AI Lab: Deep Learning for Computer Vision** – WorldQuant University  
