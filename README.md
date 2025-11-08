@@ -65,7 +65,7 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🪨 Rock Detector](https://github.com/Mo7amedMok5tar/Rock-Detector) | Real-time AI model for rock type detection integrated with mobile and web apps. | YOLOv11, PyTorch, SQL Server |
+| [🪨 Rock Detector]([https://github.com/Mo7amedMok5tar/Rock-Detector](https://docs.google.com/presentation/d/13wuBtA-gvbNHxQssh6Jfkest4lNJstmt/edit?usp=sharing&ouid=112663994091551625636&rtpof=true&sd=true)) | Real-time AI model for rock type detection integrated with mobile and web apps. | YOLOv11, PyTorch, SQL Server |
 | [📊 Customer Segmentation](https://github.com/Mo7amedMok5tar/Customer-Segmentation-on-US) | Clustered U.S. households using unsupervised learning and visualization. | Scikit-learn, Pandas, Plotly |
 | [🧠 Bankruptcy Prediction](https://github.com/Mo7amedMok5tar/Bankruptcy-in-Poland) | ML pipeline to predict bankruptcy likelihood for Polish companies. | Random Forest, Gradient Boosting |
 | [📸 Attendance System](https://github.com/Mo7amedMok5tar/Attendance-System) | Real-time face recognition attendance tracker with Excel logging. | FaceNet, MTCNN, OpenCV |
